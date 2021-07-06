@@ -1,4 +1,4 @@
 # ArtisLifeNetwork
 Cross-chain NFT Distributor
 
-[github.com/ArtisLifeNetwork](github.com/ArtislifeNetwork)
+[github.com/ArtisLifeNetwork](https://www.github.com/ArtislifeNetwork)
